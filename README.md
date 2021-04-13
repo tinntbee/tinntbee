@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tinntbee" alt="tinntbee" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tinntbee" /> </p>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/wayou/t-rex-runner/gh-pages/assets/kumamon-runner.gif" alt="kumamon" /></p>
+<p align="center"> <img src="https://media.tenor.com/images/d556bb92a91505ac319b8a9af065917c/tenor.gif" alt="kumamon" /></p>
 
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
 
