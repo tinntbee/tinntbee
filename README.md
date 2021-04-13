@@ -46,6 +46,4 @@ Email: [***trungtinbee@gmail.com***](mailto:trungtinbee@gmail.com)
 </p>
 
 
-----
-
 # Certificates:
