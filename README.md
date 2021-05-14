@@ -17,7 +17,7 @@
 ## 📫 How to reach me:
 Email: [***trungtinbee@gmail.com***](mailto:trungtinbee@gmail.com)
 <p align="center">
-  <a href="https://www.facebook.com/tin.27" alt="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" /></a> <a href="https://github.com/tinntbee" alt="Github"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a> <a href="https://www.youtube.com/channel/UC3X9wOHoePwdODTygwwogiQ" alt="Youtube channel" target="_blank" ><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/></a><a href="https://linkedin.com/in/tinntbee" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.facebook.com/trungtin.27" alt="Facebook"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" /></a> <a href="https://github.com/tinntbee" alt="Github"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a> <a href="https://www.youtube.com/channel/UC3X9wOHoePwdODTygwwogiQ" alt="Youtube channel" target="_blank" ><img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/></a><a href="https://linkedin.com/in/tinntbee" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 -----
