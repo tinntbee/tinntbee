@@ -8,11 +8,11 @@
 
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
 
-- 🌱 I’m currently learning **Deep learning and Computer vision.**
+- 🌱 I’m currently learning **ReactJs and React Native.**
 
 - 👨‍💻 All of my projects are available at [https://tinntbee.github.io](https://tinntbee.github.io)
 
-- 💬 Ask me about **C, C#, Python**
+- 💬 Ask me about **HTML - CSS, SASS - JS, ReactJS, C#**
 
 ## 📫 How to reach me:
 Email: [***trungtinbee@gmail.com***](mailto:trungtinbee@gmail.com)
@@ -24,10 +24,10 @@ Email: [***trungtinbee@gmail.com***](mailto:trungtinbee@gmail.com)
 
 ## Professional skills:
 <p align="center"> 
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 </p>
 
 ## Tools:
